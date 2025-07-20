@@ -1,6 +1,6 @@
 [Variables]
-;   Styles
-;FontFace="#@#\Fonts\Roboto-Bold.ttf"
+;   Option: include a font file
+;FontFace="#@#\Fonts\_.ttf"
 FontFace=Noto Sans Mono
 
 [Outlined]
