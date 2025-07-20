@@ -3,5 +3,13 @@ logs/
 log/
 *.log
 
-#GIMP project files
+# GIMP project files
 *.xcf
+
+# Windows executable
+*.exe
+
+# Copyrighted logos
+cpu_icon.png
+gpu_icon.png
+gpu_icon2.png
