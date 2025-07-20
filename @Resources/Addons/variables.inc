@@ -5,7 +5,7 @@
 ;   Colors [Red,Green,Blue] -- **Don't Include Alpha(A)**
 
 FrameColor=180,180,180
-;AccentColor=7,180,166
+TealColor=7,180,166
 AccentColor=123,168,162
 WarnRed=237,28,36
 WarnOrange=241,104,35
