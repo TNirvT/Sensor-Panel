@@ -13,3 +13,6 @@ log/
 cpu_icon.png
 gpu_icon.png
 gpu_icon2.png
+
+# Temporary files
+old_*.*
